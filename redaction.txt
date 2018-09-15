@@ -1,1 +1,1 @@
-Bonjour. Voici mon fichier. Voici une modification faite en ligne
+Bonjour. Voici mon fichier. Voici une modification faite en ligne. Et une locale.
